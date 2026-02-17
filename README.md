@@ -85,12 +85,6 @@ VS Code • GitHub • Tableau • Figma • Adobe Tools • Canva • NPM • N
 
 ---
 
-## 🏆 🏅 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chiragg136\&theme=algolia\&row=1\&margin-w=15\&no-frame=true)
-
----
-
 ## 🧪 📈 XP Level Bar
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiragg136\&theme=tokyo-night\&hide_border=true)
