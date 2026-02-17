@@ -62,10 +62,15 @@ VS Code • GitHub • Tableau • Figma • Adobe Tools • Canva • NPM • N
 ## 🏆 🎖️ Achievements & Unlocks
 
 👑 **PRESIDENT — MRAC College AIML Club** (Leadership Role Unlocked)
+
 🏅 Microsoft Azure AI Fundamentals (AI-900) Certified
+
 🏅 Oracle AI Vector Search Certified Professional
+
 🏅 Oracle Data Science Professional Certification
+
 🏅 Core Organizer of Ideastorm 2025
+
 🏅 Recognized author — *Intellectual Property Protection Strategy for Startups*
 
 ---
