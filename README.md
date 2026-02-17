@@ -9,20 +9,24 @@
 
 ---
 
-## 🧭 💫 Player Profile
+<h2 align="center">🎮 PLAYER PROFILE</h2>
 
 🚀 Passionate about building scalable software and intelligent systems
+
 🧩 Special Ability: Problem Solving with DSA
+
 ⚙️ Build Style: Clean Code • Backend Logic • Full-Stack Development
 
 💬 Ask me about **Python, C++, AI, or DSA**
 
 ---
 
-## 🌐 🔗 Guild Links
+<h2 align="center">🌐 GUILD LINKS</h2>
 
 🔗 LinkedIn: https://www.linkedin.com/in/chirag-gupta-98231a301
+
 🐦 X (Twitter): https://x.com/cggwrite
+
 📧 Email: [chiraggupta0613@gmail.com](mailto:chiraggupta0613@gmail.com)
 
 ---
